@@ -45,4 +45,4 @@ ttrpc = { git = "https://github.com/containerd/ttrpc-rust", rev = "8ac79f1ce8180
 ttrpc-codegen = "0.5"
 protobuf-codegen = "3.7.2"
 async-trait = "0.1"
-bytes = "1.5"
+bytes = "1.11"
